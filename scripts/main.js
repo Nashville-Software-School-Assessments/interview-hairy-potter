@@ -21,7 +21,7 @@ const maekePottery = (clay) => {
 
 /*
     Define a function named `glazePottery`. You need to give it the object that
-    `bisqueFire` produced. The function should perform the task of adding a new
+    `makePottery` produced. The function should perform the task of adding a new
     property named `glazing`, and its value should be "Midnight Blue".
     The function should then return the object after the new property was added.
 */
