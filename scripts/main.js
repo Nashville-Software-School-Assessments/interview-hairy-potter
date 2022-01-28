@@ -1,4 +1,12 @@
 /*
+    Learning objectives assessed in this exercise:
+        1. Variable value assignment
+        2. Functions, arguments, parameters, return values
+        3. Object properties
+        4. Conditional logic
+        5. Debugging with Dev Tools
+        6. Algorithmic thinking
+        
     You need to identify the issues in this code by using your debugger
     powers, and then use that knowledge to make the correct output to
     the console at the end.
